@@ -25,7 +25,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Written Test loop prg", "..
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome-neon", "Palindrome\Palindrome-neon.csproj", "{B5BDB99F-74AE-4EF3-AD51-2B43515E2256}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Impo Prog", "Impo Prog\Impo Prog.csproj", "{58DB2B59-FD9E-46E9-AC36-461C8936C9F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Impo Prog", "Impo Prog\Impo Prog.csproj", "{58DB2B59-FD9E-46E9-AC36-461C8936C9F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String p", "String\String p.csproj", "{EC145E62-6B3B-4BD1-B8C4-C4B122E27176}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{58DB2B59-FD9E-46E9-AC36-461C8936C9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58DB2B59-FD9E-46E9-AC36-461C8936C9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58DB2B59-FD9E-46E9-AC36-461C8936C9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC145E62-6B3B-4BD1-B8C4-C4B122E27176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC145E62-6B3B-4BD1-B8C4-C4B122E27176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC145E62-6B3B-4BD1-B8C4-C4B122E27176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC145E62-6B3B-4BD1-B8C4-C4B122E27176}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
